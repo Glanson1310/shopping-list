@@ -5,3 +5,8 @@
 - ambade
 - chatambade
 - golibaje
+
+## mobile charger
+- nokia
+- samsung
+- sony
