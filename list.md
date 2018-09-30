@@ -1,7 +1,7 @@
 # My shopping list
 
-- apples
-- grapes
+- shika
+- gagan
 - ambade
 - chatambade
 - golibaje
