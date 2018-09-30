@@ -1,7 +1,7 @@
 # My shopping list
 
-- shika
-- gagan
+- podi
+- bonda
 - ambade
 - chatambade
 - golibaje
