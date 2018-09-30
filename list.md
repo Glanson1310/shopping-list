@@ -1,4 +1,4 @@
-# My shopping list
+# My podi corner  list
 
 - podi
 - bonda
